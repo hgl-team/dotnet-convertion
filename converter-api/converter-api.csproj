@@ -4,6 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Hgl.Convertion</RootNamespace>
     <Version>1.0.0</Version>
+    <Authors>Jerson Huerfano Romero</Authors>
+    <Company>-</Company>
+    <PackageDescription>Convertion api</PackageDescription>
+    <RepositoryUrl>https://github.com/hgl-team/dotnet-convertion</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
